@@ -59,8 +59,8 @@ By the end of the course, the students will design, program, and analyze algorit
 
 ### Grading
 
-- Assignments: 60%
-- Exam: 40%
+- Assignments: 40%
+- Exam: 60%
 
 ## Slides
 
